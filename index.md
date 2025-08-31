@@ -7,11 +7,12 @@
 
 
 # method basic
-```
-const calc = ( a, b ) => return a * b ;
 
-let b = calc( 8  + 9 );
 ```
+const calc = ( a, b ) => a * b ;
+let b = calc( 8  + 9 ); //
+```
+
 
 # Add a checklist to task
 - [x] create a new brach
@@ -24,4 +25,5 @@ let b = calc( 8  + 9 );
 ## hemos finalizado el cursillo
 ### esta es una prueba de titulos
 #### cuarta entrada
-#### <h6 href="https://www.facebook.com/profile.php?id=61557212477762">entrada a pagina principal</h6>
+#### [entrada a página principal](https://www.facebook.com/profile.php?id=61557212477762)
+

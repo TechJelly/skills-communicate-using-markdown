@@ -12,3 +12,9 @@ const calc = ( a, b ) => return a * b ;
 
 let b = calc( 8  + 9 );
 ```
+
+# Add a checklist to task
+-[x] create a new brach
+-[x] create a new endpoint
+-[] controller to path the product
+-[] validate the producto pertenece a la empresa

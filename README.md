@@ -29,9 +29,17 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 ### :keyboard: Activity: Merge your pull request
 
 1. Click **Merge pull request**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   
+2. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
 # Llegado al paso 5
+
+
+# Llegado al <h1>paso 5</h1>
+## hemos finalizado el cursillo
+### esta es una prueba de titulos
+#### cuarta entrada
+#### <h6 href="https://www.facebook.com/profile.php?id=61557212477762">entrada a pagina principal</h6>
+
 
 <footer>
 
